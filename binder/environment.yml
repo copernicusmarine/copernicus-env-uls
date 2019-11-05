@@ -38,7 +38,8 @@ dependencies:
   - pip
   - pivottablejs
   - qgrid
-  - requests 
+  - requests
+  - rise
   - scikit-image
   - scipy
   - seaborn
