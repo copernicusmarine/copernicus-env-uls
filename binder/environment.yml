@@ -8,6 +8,7 @@ channels:
 dependencies:
   - python
   - basemap
+  - basemap-data-hires
   - cartopy
   - folium
   - ftputil
